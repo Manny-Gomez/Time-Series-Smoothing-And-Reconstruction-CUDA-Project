@@ -1,2 +1,3 @@
-# CUDA-at-Scale-Independent-Project
-CUDA at Scale Independent Project
+# Time-Series-Smoothing-And-Reconstruction-CUDA-Project
+Time-Series-Smoothing-And-Reconstruction-CUDA-Project
+
